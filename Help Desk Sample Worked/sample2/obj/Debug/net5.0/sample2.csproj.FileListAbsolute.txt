@@ -1,0 +1,91 @@
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\bin\Debug\net5.0\sample2.exe
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\bin\Debug\net5.0\sample2.deps.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\bin\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\bin\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\refint\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample2\sample2\obj\Debug\net5.0\ref\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\bin\Debug\net5.0\sample2.exe
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\bin\Debug\net5.0\sample2.deps.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\bin\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\bin\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\refint\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Projects\sample3\sample2\obj\Debug\net5.0\ref\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\bin\Debug\net5.0\sample2.exe
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\bin\Debug\net5.0\sample2.deps.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\bin\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\bin\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\refint\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Sample3\sample2\obj\Debug\net5.0\ref\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.exe
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.deps.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\refint\sample2.dll
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.pdb
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache
+E:\APIIT\Higher National Diploma (HND)\Semester 4\Data Structures and Algorithms (DSA)\Assignments\CB 010640 - DSA\Spectrum Technologies Help Desk\Help Desk Sample Worked\sample2\obj\Debug\net5.0\ref\sample2.dll
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.exe
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.deps.json
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.dll
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.pdb
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.dll
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\refint\sample2.dll
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.pdb
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache
+C:\Users\Yoonus Ajward\Documents\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\ref\sample2.dll
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.exe
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.deps.json
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.runtimeconfig.json
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.dll
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\bin\Debug\net5.0\sample2.pdb
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.dll
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\refint\sample2.dll
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.pdb
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\sample2.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\APIIT\Semester 4\Data Structures & Algorithms\DSA\Help Desk Sample Worked\sample2\obj\Debug\net5.0\ref\sample2.dll

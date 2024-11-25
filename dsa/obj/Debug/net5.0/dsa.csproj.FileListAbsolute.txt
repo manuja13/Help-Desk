@@ -1,0 +1,16 @@
+C:\C#\dsa\dsa\bin\Debug\net5.0\dsa.exe
+C:\C#\dsa\dsa\bin\Debug\net5.0\dsa.deps.json
+C:\C#\dsa\dsa\bin\Debug\net5.0\dsa.runtimeconfig.json
+C:\C#\dsa\dsa\bin\Debug\net5.0\dsa.runtimeconfig.dev.json
+C:\C#\dsa\dsa\bin\Debug\net5.0\dsa.dll
+C:\C#\dsa\dsa\bin\Debug\net5.0\dsa.pdb
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.csproj.AssemblyReference.cache
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.AssemblyInfoInputs.cache
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.AssemblyInfo.cs
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.csproj.CoreCompileInputs.cache
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.dll
+C:\C#\dsa\dsa\obj\Debug\net5.0\refint\dsa.dll
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.pdb
+C:\C#\dsa\dsa\obj\Debug\net5.0\dsa.genruntimeconfig.cache
+C:\C#\dsa\dsa\obj\Debug\net5.0\ref\dsa.dll
